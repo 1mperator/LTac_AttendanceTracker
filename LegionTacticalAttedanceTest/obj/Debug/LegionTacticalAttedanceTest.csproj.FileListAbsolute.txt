@@ -1,0 +1,6 @@
+D:\Users\Imperator\Documents\Visual Studio 2013\Projects\LegionTacticalAttedanceTest\LegionTacticalAttedanceTest\bin\Debug\LegionTacticalAttedanceTest.exe.config
+D:\Users\Imperator\Documents\Visual Studio 2013\Projects\LegionTacticalAttedanceTest\LegionTacticalAttedanceTest\bin\Debug\LegionTacticalAttedanceTest.exe
+D:\Users\Imperator\Documents\Visual Studio 2013\Projects\LegionTacticalAttedanceTest\LegionTacticalAttedanceTest\bin\Debug\LegionTacticalAttedanceTest.pdb
+D:\Users\Imperator\Documents\Visual Studio 2013\Projects\LegionTacticalAttedanceTest\LegionTacticalAttedanceTest\obj\Debug\LegionTacticalAttedanceTest.csprojResolveAssemblyReference.cache
+D:\Users\Imperator\Documents\Visual Studio 2013\Projects\LegionTacticalAttedanceTest\LegionTacticalAttedanceTest\obj\Debug\LegionTacticalAttedanceTest.exe
+D:\Users\Imperator\Documents\Visual Studio 2013\Projects\LegionTacticalAttedanceTest\LegionTacticalAttedanceTest\obj\Debug\LegionTacticalAttedanceTest.pdb
